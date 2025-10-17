@@ -61,7 +61,7 @@ export function Testimonials() {
         >
           <p className="text-primary font-semibold text-lg mb-4 uppercase tracking-wide">Testimonios</p>
           <h2 className="text-4xl md:text-5xl font-bold mb-6 text-balance">
-            We provide excellent service to our customers
+            Nos destacamos por ofrecer un servicio de calidad
           </h2>
           <p className="text-lg text-secondary-foreground/80 max-w-2xl mx-auto leading-relaxed">
             Descubre lo que nuestros clientes satisfechos tienen que decir sobre su experiencia trabajando con nosotros.

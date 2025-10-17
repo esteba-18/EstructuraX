@@ -83,7 +83,7 @@ export function Contact() {
           className={`text-center mb-16 transition-all duration-1000 ${isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"}`}
         >
           <p className="text-primary font-semibold text-lg mb-4 uppercase tracking-wide">Contáctanos</p>
-          <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6 text-balance">Starts Here</h2>
+          <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6 text-balance">Tu proyecto comienza aquí</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed">
             ¿Tienes un proyecto en mente? Contáctanos hoy y descubre cómo podemos ayudarte a hacerlo realidad.
           </p>

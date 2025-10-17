@@ -68,7 +68,7 @@ export function Services() {
           >
             <p className="text-primary font-semibold text-lg mb-4 uppercase tracking-wide">Nuestros Servicios</p>
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6 text-balance">
-              We building everything that you needed
+              Construimos todo lo que imaginas.
             </h2>
             <p className="text-lg text-muted-foreground leading-relaxed mb-6">
               Ofrecemos una amplia gama de servicios de construcción diseñados para satisfacer todas tus necesidades.

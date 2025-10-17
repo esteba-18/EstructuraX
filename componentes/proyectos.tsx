@@ -77,7 +77,7 @@ export function Projects() {
           className={`text-center mb-16 transition-all duration-1000 ${isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"}`}
         >
           <p className="text-primary font-semibold text-lg mb-4 uppercase tracking-wide">Nuestro Portafolio</p>
-          <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6 text-balance">Explore recent projects</h2>
+          <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6 text-balance">Conoce nuestros proyectos recientes</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed">
             Descubre algunos de nuestros proyectos más destacados que demuestran nuestra experiencia y compromiso con la
             excelencia.

@@ -74,7 +74,7 @@ export function WhyChooseUs() {
             className={`transition-all duration-1000 ${isVisible ? "opacity-100 translate-x-0" : "opacity-0 translate-x-10"}`}
           >
             <p className="text-primary font-semibold text-lg mb-4 uppercase tracking-wide">¿Por Qué Elegirnos?</p>
-            <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6 text-balance">Why choose us</h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6 text-balance">Lo que nos distingue</h2>
             <p className="text-lg text-muted-foreground leading-relaxed mb-8">
               Somos una empresa líder en construcción con un compromiso inquebrantable con la calidad, seguridad y
               satisfacción del cliente. Nuestro equipo experto trabaja incansablemente para superar tus expectativas.

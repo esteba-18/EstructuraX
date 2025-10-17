@@ -46,8 +46,8 @@ export function Hero() {
             Bienvenido a EstructuraX
           </p>
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight text-balance animate-slide-in-left">
-            Quality Construction
-            <span className="block text-primary">& Honest Service</span>
+            Construcción de calidad
+            <span className="block text-primary">& servicio honesto</span>
           </h1>
           <p className="text-xl text-white/90 mb-8 leading-relaxed max-w-2xl animate-slide-in-left animation-delay-200">
             Con más de 20 años de experiencia, construimos todo lo que necesitas con calidad, dedicación y compromiso.
